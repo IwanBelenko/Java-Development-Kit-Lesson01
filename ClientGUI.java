@@ -76,5 +76,4 @@ public class ClientGUI extends JFrame {
             ex.printStackTrace();
         }
     }
-
 }
